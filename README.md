@@ -15,7 +15,8 @@ Download zip or clone from github
 ### Windows
 
 - Open Powershell/CMD 
-- change the directory to the location of main.py
+- change the directory to the location of main.py using the cd command
+- type `pip install opencv-python pyvirtualcam`
 - type `py main.py`
 - open your preferred medium of video meetings and change your camera to obs virtual cam
 - enjoy
@@ -24,7 +25,10 @@ Download zip or clone from github
 
 
 - Open a Terminal Emulator of your choice
-- change the directory to the location of main.py
+- change the directory to the location of main.py using the cd command
+- type `pip install opencv-python pyvirtualcam`
 - type `python3 main.py`
 - open your preferred medium of video meetings and change your camera to obs virtual cam
 - enjoy
+
+Note: You can use a different video instead by renaming it to rr.mp4 and replacing it with the rickroll video
